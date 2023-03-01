@@ -1,6 +1,5 @@
 <h1  align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>Hello there, I'm Nadezda!</h1>
 <div align="center">
-  
   <img src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif" width="700" height="300"/>
 </div>
 <h2>:woman_technologist: About Me:</h2>
