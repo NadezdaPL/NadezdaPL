@@ -6,7 +6,7 @@
 
 I am a beginner frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-  - :books: Now I am studying at Yandex Practicum courses in the direction of Front-end developer.
+  - :books: Now I am studying at Yandex Practicum courses in the direction of Frontend developer.
   - :computer: I also study additional material and on the basis of it I try to make pet projects.
   - ☎️ You can reach me via [![Linkedin Badge](https://img.shields.io/badge/-NadezdaPL-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nadezdapl)
 
