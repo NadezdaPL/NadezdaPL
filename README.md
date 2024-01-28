@@ -4,7 +4,7 @@
 </div>
 <h2>:woman_technologist: About Me:</h2>
 
-Trainee/Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
   - :books: In August 2023 graduated Yandex Practicum courses in the direction of Web Developer.
   - :computer: Additionally read and watch videos for my improvement.
