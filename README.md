@@ -8,7 +8,7 @@ Trainee/Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplc
 
   - :books: In August 2023 graduated Yandex Practicum courses in the direction of Web Developer.
   - :computer: Additionally read and watch videos for my improvement.
-  - ☎️ You can reach me via [![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nadine.pleshkova@gmail.com)](mailto:nadine.pleshkova@gmail.com)
+  - ☎️ You can reach me via [![Gmail Badge](https://img.shields.io/badge/-nadine.pleshkova@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nadine.pleshkova@gmail.com)](mailto:nadine.pleshkova@gmail.com)
 
 ---
 
